@@ -1,0 +1,14 @@
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+name: task_ease
+description: A simple task management Flutter app.
+version: 0.0.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
