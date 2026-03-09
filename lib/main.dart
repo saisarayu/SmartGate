@@ -16,7 +16,7 @@ class SmartGateApp extends StatelessWidget {
     final _ = AppDatabase.instance;
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Smart Gate',
+      title: 'Smart-Gate',
       theme: AppTheme.lightTheme,
       home: const RoleSelectionScreen(),
     );
